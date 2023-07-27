@@ -615,9 +615,10 @@ body{
 }
 .cookie{
     width: 50px;
-    margin-top: 500px;
-    margin-left: 5px;
+    bottom: 10px;
+    left: 10px;
     position: fixed;
+    z-index: 1;
 }
 .cookie-placing{
     position: absolute;
